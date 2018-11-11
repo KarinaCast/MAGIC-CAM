@@ -149,7 +149,7 @@ void inicio_Op0(){
   text("4. Regresar: Tecla F",250,230);
   
   image(salir,250,250);
-  text("5. Salir: Tecla E",250,300);
+  text("5. Salir: Tecla X",250,300);
   
   image(pixel,450,180);
   text("Pixel - Tecla 1",450,230);
